@@ -1,11 +1,27 @@
 
 /* Your CSS Code here. */
+*{
+	font-family:sans-serif;
+}
 th{
 	padding-right:50px;
 	color:white;
 	background-color:#d75959;
+	font-size:15px;
 }
 .tr1{
 	color:white;
 	background-color:#de6d6d;
+}
+.tr2{
+	background-color:#e1b7b7;
+}
+.tr3{
+	background-color:rgb(246, 241, 241);
+}
+td,th{
+	border:1px solid rgb(73, 68, 68);
+}
+#t1,#t2,#t3{
+	text-align:right;
 }
