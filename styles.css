@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+th{
+	padding-right:50px;
+	color:white;
+	background-color:#d75959;
+}
+.tr1{
+	color:white;
+	background-color:#de6d6d;
+}
